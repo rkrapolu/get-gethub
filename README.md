@@ -1,2 +1,2 @@
-# get-gethub
+# git-github
 this is for tutorial
